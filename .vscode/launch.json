@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/forParkingASP/bin/Debug/netcoreapp2.0/forParkingASP.dll",
+            "program": "${workspaceFolder}/forParkingASP/forParkingASP/bin/Debug/netcoreapp2.0/forParkingASP.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/forParkingASP",
+            "cwd": "${workspaceFolder}/forParkingASP/forParkingASP",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart",
             "launchBrowser": {

@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/forParkingASP/forParkingASP.csproj"
+                "${workspaceFolder}/forParkingASP/forParkingASP/forParkingASP.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
